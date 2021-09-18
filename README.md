@@ -1,2 +1,5 @@
 # angular-pro
-nagular pro project
+angular pro project
+
+## Follow Angular Pro from Angular Ultimate
+
